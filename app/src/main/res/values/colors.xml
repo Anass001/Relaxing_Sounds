@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#fff</color>
+
+    <!-- Ocean -->
+    <color name="oceanStart">#396afc</color>
+    <color name="oceanEnd">#2948ff</color>
+    <!-- Forest -->
+    <color name="forestStart">#11998e</color>
+    <color name="forestEnd">#38ef7d</color>
+    <!-- Rain -->
+    <color name="rainStart">#bdc3c7</color>
+    <color name="rainEnd">#2c3e50</color>
+    <!-- Night -->
+    <color name="nightStart">#0F2027</color>
+    <color name="nightEnd">#2C5364</color>
+    <!-- Lake -->
+    <color name="lakeStart">#2193b0</color>
+    <color name="lakeEnd">#6dd5ed</color>
+
+</resources>
